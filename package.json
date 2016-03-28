@@ -1,0 +1,22 @@
+{
+  "name": "flappybird-landingpage",
+  "version": "1.0.0",
+  "description": "Flappy Bird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abby-garcia/FlappyBird_LandingPage.git"
+  },
+  "author": "Abby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abby-garcia/FlappyBird_LandingPage/issues"
+  },
+  "homepage": "https://github.com/abby-garcia/FlappyBird_LandingPage",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
